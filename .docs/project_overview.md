@@ -5,7 +5,7 @@
 | Phiên bản tài liệu | 0.1 — bản tổng hợp theo tài liệu hiện có, các vấn đề chưa chốt được liệt kê cuối tài liệu |
 | Ngày cập nhật | 2026-10-10 |
 | Tên dự án | Xây dựng phần mềm quản lý và thu phí ở chung cư BlueMoon |
-| Nhóm thực hiện | Nguyễn Doãn Dũng, Nguyễn Hoàng Đức , Nguyễn Văn Tuấn Hưng, Phạm Công Nam Khánh, Nguyễn Quang Minh — theo `Product_Backlog.xlsx`, sheet `Workload_Summary` |
+| Nhóm thực hiện | Nguyễn Doãn Dũng, Nguyễn Hoàng Đức , Nguyễn Văn Tuấn Hưng, Nguyễn Công Nam Khánh, Nguyễn Quang Minh — theo `Product_Backlog.xlsx`, sheet `Workload_Summary` |
 | Bối cảnh học tập | Bài tập lớn Công nghệ phần mềm; bộ đề `20261 - Chu de BTL.pdf`. Số nhóm và mã học phần chưa được xác nhận bằng tài liệu hiện có trong dự án. |
 | Khách hàng / người dùng chính | Ban quản trị chung cư BlueMoon |
 | Nhà tài trợ | Chưa xác định trong đề bài hiện có |
